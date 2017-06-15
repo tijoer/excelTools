@@ -1,0 +1,9 @@
+Create a new Excel file.
+
+Go to view->macros->record new macro  (or something like this. I don't have an english excel version)
+Record an empty macro to your personal.xlsb.
+Save and exit 
+
+Excel will now have created a new file called PERSONAL.XLSB in C:\Users\USERNAME\AppData\Roaming\Microsoft\Excel\XLSTART
+
+You can store your personal modules there.

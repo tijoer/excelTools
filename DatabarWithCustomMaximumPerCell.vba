@@ -1,5 +1,9 @@
 Private Sub Worksheet_Activate()
     
+	' This will display a databar in each cell in a column. The maximum 
+	' value can be set in the cell that is stored in the variable
+	' maxNumber.
+	
     Dim rc As Range
     Dim DataB As Databar
     Dim maxNumber As Long
